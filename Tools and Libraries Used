@@ -1,12 +1,12 @@
-Tool/Library	Purpose
-Python	Core programming language used for development
-Jupyter Notebook	Interactive environment for coding, training, and testing models
-OpenCV	Face detection, image preprocessing, and real-time video capture
-TensorFlow	Building and training deep learning models
-Keras	High-level API for designing CNN architectures
-NumPy	Numerical computations and array manipulations
-Pandas	Dataset loading and preprocessing
-Matplotlib	Data visualization and plotting training results
-Scikit-learn	Model evaluation and performance metrics
-Haar Cascade Classifier	Face detection in images and videos
-FER2013 Dataset	Dataset used for training and testing the emotion recognition model
+Tool/Library	      Purpose
+Python	            Core programming language used for development
+Jupyter Notebook	  Interactive environment for coding, training, and testing models
+OpenCV	            Face detection, image preprocessing, and real-time video capture
+TensorFlow	        Building and training deep learning models
+Keras	              High-level API for designing CNN architectures
+NumPy	              Numerical computations and array manipulations
+Pandas	            Dataset loading and preprocessing
+Matplotlib	        Data visualization and plotting training results
+Scikit-learn	      Model evaluation and performance metrics
+Haar                Cascade Classifier	Face detection in images and videos
+FER2013             Dataset	Dataset used for training and testing the emotion recognition model
